@@ -93,7 +93,9 @@ class OrderDetailScreen extends StatelessWidget {
                   'Metode Pembayaran',
                   style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
                 ),
-                
+                Text('COD',
+                    style:
+                        TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
               ],
             ),
             if (orderStatus == 'Selesai') ...[
