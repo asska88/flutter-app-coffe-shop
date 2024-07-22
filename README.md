@@ -1,3 +1,3 @@
-# application_furniture_mobile
+# flutter app coffe shop
 
 A new Flutter project.
