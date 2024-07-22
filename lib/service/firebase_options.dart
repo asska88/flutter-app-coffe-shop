@@ -41,51 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB2oL1PwvGkjno8cxuTd8F-75DXNOnilTc',
-    appId: '1:303237136039:web:e0dcc61a5c95a69680a582',
-    messagingSenderId: '303237136039',
-    projectId: 'flutter-app-54054',
-    authDomain: 'flutter-app-54054.firebaseapp.com',
-    databaseURL: 'https://flutter-app-54054-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'flutter-app-54054.appspot.com',
+    apiKey: 'AIzaSyAoEAdHjyFHUjnrIxZ8hFmI10kSeZyw6iY',
+    appId: '1:532278460713:web:859b3efb14dd570fa17738',
+    messagingSenderId: '532278460713',
+    projectId: 'coffe-shop-191f3',
+    authDomain: 'coffe-shop-191f3.firebaseapp.com',
+    storageBucket: 'coffe-shop-191f3.appspot.com',
+    measurementId: 'G-KMJE7QLFDF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBdtszXFciwJFuF6rQpax252VDf5ru7ZeM',
-    appId: '1:303237136039:android:9c2d914035c7c57d80a582',
-    messagingSenderId: '303237136039',
-    projectId: 'flutter-app-54054',
-    databaseURL: 'https://flutter-app-54054-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'flutter-app-54054.appspot.com',
+    apiKey: 'AIzaSyC4aQRtR4BpCN9XHVQHpUaFAP6BfbQBql4',
+    appId: '1:532278460713:android:6ff25c1f6c95f527a17738',
+    messagingSenderId: '532278460713',
+    projectId: 'coffe-shop-191f3',
+    storageBucket: 'coffe-shop-191f3.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA36yqF4hjjth1G9ocELKzZaGWHXH-VgdE',
-    appId: '1:303237136039:ios:05237b0e4ba44a2e80a582',
-    messagingSenderId: '303237136039',
-    projectId: 'flutter-app-54054',
-    databaseURL: 'https://flutter-app-54054-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'flutter-app-54054.appspot.com',
+    apiKey: 'AIzaSyBDC8lEQno05w68KUTVtSiYT_sCT1PO2wQ',
+    appId: '1:532278460713:ios:95d869ad0fda75e5a17738',
+    messagingSenderId: '532278460713',
+    projectId: 'coffe-shop-191f3',
+    storageBucket: 'coffe-shop-191f3.appspot.com',
     iosBundleId: 'com.example.applicationFurnitureMobile',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA36yqF4hjjth1G9ocELKzZaGWHXH-VgdE',
-    appId: '1:303237136039:ios:05237b0e4ba44a2e80a582',
-    messagingSenderId: '303237136039',
-    projectId: 'flutter-app-54054',
-    databaseURL: 'https://flutter-app-54054-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'flutter-app-54054.appspot.com',
+    apiKey: 'AIzaSyBDC8lEQno05w68KUTVtSiYT_sCT1PO2wQ',
+    appId: '1:532278460713:ios:95d869ad0fda75e5a17738',
+    messagingSenderId: '532278460713',
+    projectId: 'coffe-shop-191f3',
+    storageBucket: 'coffe-shop-191f3.appspot.com',
     iosBundleId: 'com.example.applicationFurnitureMobile',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB2oL1PwvGkjno8cxuTd8F-75DXNOnilTc',
-    appId: '1:303237136039:web:f62a12a41eedd7fa80a582',
-    messagingSenderId: '303237136039',
-    projectId: 'flutter-app-54054',
-    authDomain: 'flutter-app-54054.firebaseapp.com',
-    databaseURL: 'https://flutter-app-54054-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'flutter-app-54054.appspot.com',
+    apiKey: 'AIzaSyAoEAdHjyFHUjnrIxZ8hFmI10kSeZyw6iY',
+    appId: '1:532278460713:web:fda78d1f1d5e4ec7a17738',
+    messagingSenderId: '532278460713',
+    projectId: 'coffe-shop-191f3',
+    authDomain: 'coffe-shop-191f3.firebaseapp.com',
+    storageBucket: 'coffe-shop-191f3.appspot.com',
+    measurementId: 'G-5ZE9178HQW',
   );
 }

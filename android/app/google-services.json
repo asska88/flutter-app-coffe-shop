@@ -1,52 +1,26 @@
 {
   "project_info": {
-    "project_number": "303237136039",
-    "firebase_url": "https://flutter-app-54054-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "flutter-app-54054",
-    "storage_bucket": "flutter-app-54054.appspot.com"
+    "project_number": "532278460713",
+    "project_id": "coffe-shop-191f3",
+    "storage_bucket": "coffe-shop-191f3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:303237136039:android:9c2d914035c7c57d80a582",
+        "mobilesdk_app_id": "1:532278460713:android:6ff25c1f6c95f527a17738",
         "android_client_info": {
-          "package_name": "com.application_furniture_mobile"
+          "package_name": "com.application_coffe_shop_mobile"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "303237136039-a2edru03i18e54l96qni1hs07n5vr7b0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.application_furniture_mobile",
-            "certificate_hash": "628ad8b2af1f7844cb1bab9d30223eb7ccb05c1b"
-          }
-        },
-        {
-          "client_id": "303237136039-t5vmcali3vmu0stublhl4ecpcvuvpdjg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBdtszXFciwJFuF6rQpax252VDf5ru7ZeM"
+          "current_key": "AIzaSyC4aQRtR4BpCN9XHVQHpUaFAP6BfbQBql4"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "303237136039-t5vmcali3vmu0stublhl4ecpcvuvpdjg.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "303237136039-4r0cnioq9vtmbklkrrl5f87qrvma3hm6.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.applicationFurnitureMobile"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
