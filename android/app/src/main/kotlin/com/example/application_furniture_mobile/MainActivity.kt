@@ -1,4 +1,4 @@
-package com.application_furniture_mobile
+package com.application_coffe_shop_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 
