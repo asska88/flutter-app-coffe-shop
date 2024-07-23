@@ -78,7 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     shape: BoxShape.circle,
                     border: Border.all(
                       color: _selectedIndex == i
-                          ? const Color(0xffA95EFA)
+                          ? const Color.fromARGB(255, 223, 223, 223)
                           : Colors.transparent,
                       width: 2.0,
                     ),

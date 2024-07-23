@@ -33,7 +33,7 @@ void main() async {
         theme: ThemeData(
             elevatedButtonTheme: ElevatedButtonThemeData(
                 style: ElevatedButton.styleFrom(
-                    backgroundColor: const Color(0xff9F57F9)))),
+                    backgroundColor: const Color.fromARGB(255, 180, 180, 180)))),
         debugShowCheckedModeBanner: false,
         initialRoute: '/',
         routes: {

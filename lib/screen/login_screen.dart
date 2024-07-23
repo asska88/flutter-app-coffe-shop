@@ -121,8 +121,8 @@ class _LoginScreenState extends State<LoginScreen> {
                     Navigator.pushNamed(context, '/sign');
                   },
                   style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xff9F57F9),
-                      foregroundColor: Colors.white,
+                      backgroundColor: const Color.fromARGB(255, 197, 197, 197),
+                      foregroundColor: const Color.fromARGB(255, 0, 0, 0),
                       elevation: 10.0,
                       shadowColor: Colors.black,
                       shape: RoundedRectangleBorder( 
@@ -131,9 +131,9 @@ class _LoginScreenState extends State<LoginScreen> {
                       side: const BorderSide(width: 2),
                       fixedSize: Size(screenSize.width * 0.9, screenSize.height * 0.07)),
                   child: Text(
-                    'Sign with Password',
+                    'Signin with Password',
                     style: GoogleFonts.dmSans(
-                        color: Colors.white,
+                        color: Color.fromARGB(255, 32, 32, 32),
                         fontSize: 25,
                         fontWeight: FontWeight.bold),
                   )),

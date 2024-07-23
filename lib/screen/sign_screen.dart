@@ -206,7 +206,7 @@ class _SignScreenState extends State<SignScreen> {
     return ElevatedButton(
         onPressed: _isLoading ? null : _signIn,
         style: ElevatedButton.styleFrom(
-            backgroundColor: const Color(0xff9F57F9),
+            backgroundColor: const Color.fromARGB(255, 179, 179, 179),
             foregroundColor: Colors.white,
             elevation: 10.0,
             shadowColor: Colors.black,
@@ -220,7 +220,7 @@ class _SignScreenState extends State<SignScreen> {
             : Text(
                 'Sign In',
                 style: GoogleFonts.dmSans(
-                    color: Colors.white,
+                    color: const Color.fromARGB(255, 24, 24, 24),
                     fontSize: 25,
                     fontWeight: FontWeight.bold),
               ));

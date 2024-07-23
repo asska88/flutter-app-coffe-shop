@@ -27,11 +27,28 @@ class SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
+    Size screenSize = MediaQuery.sizeOf(context);
     return Scaffold(
       body: Container(
         color: Colors.white, 
-        child: Center(
-          child: Image.asset('assets/images/logo.png'),
+        child: SingleChildScrollView(
+          child: Column(
+            children: [
+              Center(
+                child: Image.asset('assets/images/logo.png'),
+                
+              ),
+              Row(
+                      children: [
+                        Image.asset(
+                                      'assets/images/bg.png',
+                                      height: screenSize.height * 0.5,
+                                      fit: BoxFit.fitWidth,
+                                    ),
+                      ],
+                    ),
+            ],
+          ),
         ),
       ),
     );
